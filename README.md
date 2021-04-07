@@ -1,5 +1,6 @@
 ### Hi there 👋
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ploukareas&hide_border=True&layout=compact)](https://github.com/ploukareas/github-readme-stats)
+![trophy](https://github-profile-trophy.vercel.app/?username=ploukareas&theme=react&no-frame=true&title=Stars,Commit,Repositories,Followers)
 <!--
 **ploukareas/ploukareas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
